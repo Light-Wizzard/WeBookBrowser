@@ -9,18 +9,18 @@
  */
 class URL : public QUrl
 {
-public:
-    /// Default constructor
-    URL();
+    public:
+        // Default constructor
+        URL();
 
-    /// Constructs a copy of the given URL
-    URL(const QUrl &other);
+        // Constructs a copy of the given URL
+        URL(const QUrl &other);
 
-    /// Constructs a URL from the given string a parsing mode
-    URL(const QString &url, ParsingMode parsingMode = URL::TolerantMode);
+        // Constructs a URL from the given string a parsing mode
+        URL(const QString &url, ParsingMode parsingMode = URL::TolerantMode);
 
-    /// Returns the second-level domain of the URL (ex: websiteA.com; websiteB.co.uk)
-    QString getSecondLevelDomain() const;
+        // Returns the second-level domain of the URL (ex: websiteA.com; websiteB.co.uk)
+        QString getSecondLevelDomain() const;
 };
 
 #endif // URL_H
