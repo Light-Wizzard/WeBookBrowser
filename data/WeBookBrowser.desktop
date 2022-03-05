@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=WeBookBrowser
+GenericName=WeBookBrowser
+Comment=WeBookBrowser by the Light Wizzard
+Icon=WeBookBrowser
+Exec=WeBookBrowser %u
+Terminal=false
+X-MultipleArgs=false
+Categories=Network;WebBrowser;
+Keywords=CMS;
+MimeType=text/html;text/xml;application/xhtml+xml;x-scheme-handler/http;x-scheme-handler/https;
+Name[en_US]=WeBookBrowser.desktop

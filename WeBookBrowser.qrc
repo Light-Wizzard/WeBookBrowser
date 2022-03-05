@@ -1,0 +1,70 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bookmarks.xbel</file>
+        <file>help/Help_en.md</file>
+        <file>help/About_en.md</file>
+        <file alias="AppLogoColor.png">images/AppLogoColor.png</file>
+        <file alias="ninja.png">images/ninja.png</file>
+        <file alias="dialog-error.png">images/dialog-error.png</file>
+        <file alias="edit-clear.png">images/edit-clear.png</file>
+        <file alias="go-bottom.png">images/go-bottom.png</file>
+        <file alias="go-next.png">images/go-next.png</file>
+        <file alias="go-previous.png">images/go-previous.png</file>
+        <file alias="process-stop.png">images/process-stop.png</file>
+        <file alias="text-html.png">images/text-html.png</file>
+        <file alias="view-refresh.png">images/view-refresh.png</file>
+        <file alias="exit.png">images/exit.png</file>
+        <file alias="help.png">images/help.png</file>
+        <file alias="gear.png">images/gear.png</file>
+        <file alias="handshake.png">images/handshake.png</file>
+        <file alias="addressbook.png">images/addressbook.png</file>
+        <file>images/logo.png</file>
+        <file>images/connect.png</file>
+        <file>images/disconnect.png</file>
+        <file>images/hierarchy.png</file>
+        <file>images/left.png</file>
+        <file>images/safe.png</file>
+        <file>images/trash.png</file>
+        <file>images/up.png</file>
+        <file>images/upload.png</file>
+        <file>images/clipboard.png</file>
+        <file>images/lists.png</file>
+        <file>images/mail.png</file>
+        <file>images/refresh.png</file>
+        <file>images/addressbook.png</file>
+        <file>images/calculator.png</file>
+        <file>images/camera.png</file>
+        <file>images/clock.png</file>
+        <file>images/comment.png</file>
+        <file>images/date.png</file>
+        <file>images/key.png</file>
+        <file>images/lock.png</file>
+        <file>images/music.png</file>
+        <file>images/notes.png</file>
+        <file>images/online.png</file>
+        <file>images/openlock.png</file>
+        <file>images/phone.png</file>
+        <file>images/saveas.png</file>
+        <file>images/telephone.png</file>
+        <file>images/thumbsup.png</file>
+        <file>images/unlock.png</file>
+        <file>images/usergroup.png</file>
+        <file>images/wireless.png</file>
+        <file>images/wizardwand.png</file>
+        <file>images/exit.png</file>
+        <file>images/colorwheel.png</file>
+        <file>images/editcopy.png</file>
+        <file>images/editcut.png</file>
+        <file>images/editpaste.png</file>
+        <file>images/editredo.png</file>
+        <file>images/editundo.png</file>
+        <file>images/exportpdf.png</file>
+        <file>images/filenew.png</file>
+        <file>images/fileopen.png</file>
+        <file>images/fileprint.png</file>
+        <file>images/filesave.png</file>
+        <file>images/zoom.png</file>
+        <file>images/zoomin.png</file>
+        <file>images/zoomout.png</file>
+    </qresource>
+</RCC>
